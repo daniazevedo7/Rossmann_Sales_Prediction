@@ -117,7 +117,7 @@ A performance total do modelo podemos calcular somando os valores das prediçõe
 ## ****Modelo em produção****
 
 - A API está hospedada na plataforma Heroku e pode ser consultada através desta url: [https://proj-rossmann.herokuapp.com/](https://proj-rossmann.herokuapp.com/)
-- O bot no Telegram está disponível neste link: [https://t.me/proj_rossmann_bot](https://t.me/proj_rossmann_bot)
+- O bot no Telegram está disponível neste link: [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/proj_rossmann_bot)
     
     Para visulizar as predições do modelo é preciso informar o numero da loja na conversa com o bot, passando apenas números. Se o id da loja não existe, ele retorna uma mensagem informando que a loja nao existe e é possível fazer outra consulta informando outro número, informando um novo número de id ele mostra a predição de vendas para a loja nas próximas 6 semanas. A imagem abaixo mostra um exemplo do funcionamento.
 
